@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5k8XkXbup8KLht9I078BJ2paoAi/rPzLqdJvpYUg+pGOm/zWzhX24KSr32hBz0iA+K6LJVUme5Yb04xH3MY7og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diiep\\OneDrive\\Tài liệu\\GitHub\\QLNhaHang\\QLNH_APIs\\QLNH_APIs\\QLNH_APIs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diiep\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Diiep\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Diiep\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Diiep\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Diiep\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Diiep\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
